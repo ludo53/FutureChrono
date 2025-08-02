@@ -72,4 +72,3 @@ Contributions to FutureChrono are welcome and appreciated! We value community in
 # License
 
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/ludo53/FutureChrono/blob/main/LICENSE) file for details.
-.
